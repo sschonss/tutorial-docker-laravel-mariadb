@@ -10,6 +10,10 @@ My goal is to help you to create a Laravel project using Docker in a simple way.
 
 I decided write this tutorial because I had some difficulties to create a Laravel project using Docker and I want to help you to avoid these difficulties.
 
+Flowing a documentation is a good way to learn, but sometimes you need to read a tutorial to understand better.
+
+Howewer, i learned a lot writing this tutorial, so it is a double way path.
+
 If you have any questions, you can contact me on [LinkedIn](https://www.linkedin.com/in/luiz-schons/) or [GitHub](https://github.com/sschonss).
 
 >That is my first tutorial in English, sorry for any mistakes.
