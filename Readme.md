@@ -8,11 +8,11 @@ This tutorial will help you to create a Laravel project using Docker.
 
 My goal is to help you to create a Laravel project using Docker in a simple way.
 
-I decided write this tutorial because I had some difficulties to create a Laravel project using Docker and I want to help you to avoid these difficulties.
+I decided to write this tutorial because I had some difficulties to create a Laravel project using Docker and I want to help you to avoid these difficulties.
 
 Flowing a documentation is a good way to learn, but sometimes you need to read a tutorial to understand better.
 
-Howewer, i learned a lot writing this tutorial, so it is a double way path.
+However, I learned a lot of writing this tutorial, so it is a double way path.
 
 If you have any questions, you can contact me on [LinkedIn](https://www.linkedin.com/in/luiz-schons/) or [GitHub](https://github.com/sschonss).
 
@@ -44,11 +44,13 @@ You need to change environment variables in the docker-compose.yml file to your 
 
 Sometimes, you need to change the ports in the docker-compose.yml file to avoid conflicts with other services.
 
-Maybe you need open you project `~/myapp` in your IDE or text editor to edit your .env file.
+Maybe you need to open your project `~/myapp` in your IDE or text editor to edit your .env file.
 
 Remember to change the DB_HOST variable in your .env file to the name of the service defined in the docker-compose.yml file.
 
-Could be necessary change permissions of the `~/myapp` directory, because the container will create files in this directory and maybe you can't edit these files.
+Could be necessary to change permissions of the `~/myapp` directory, because the container will create files in this directory, and maybe you can't edit these files.
+
+
 
 
 
@@ -118,7 +120,7 @@ I recommend you read the [Bitnami Laravel](https://hub.docker.com/r/bitnami/lara
 
 You can use this [Bitnami Laravel](https://hub.docker.com/r/bitnami/laravel/) image in production, but you need to change the environment variables in the docker-compose.yml file to your own values.
 
-I wrote this tutorial to help you, but I don't know everything about Docker and Laravel, i'm learning too.
+I wrote this tutorial to help you, but I don't know everything about Docker and Laravel, I'm learning too.
 
 I hope this tutorial helps you. :smile:
 
