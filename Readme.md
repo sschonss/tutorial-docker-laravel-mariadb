@@ -12,7 +12,7 @@ I decided to write this tutorial because I had some difficulties to create a Lar
 
 Flowing a documentation is a good way to learn, but sometimes you need to read a tutorial to understand better.
 
-However, I learned a lot of writing this tutorial, so it is a double way path.
+However, I learned a lot of writing this tutorial, so it is a win-win situation.
 
 If you have any questions, you can contact me on [LinkedIn](https://www.linkedin.com/in/luiz-schons/) or [GitHub](https://github.com/sschonss).
 
