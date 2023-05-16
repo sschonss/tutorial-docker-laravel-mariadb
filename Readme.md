@@ -10,7 +10,7 @@ My goal is to help you to create a Laravel project using Docker in a simple way.
 
 I decided to write this tutorial because I had some difficulties to create a Laravel project using Docker and I want to help you to avoid these difficulties.
 
-Flowing a documentation is a good way to learn, but sometimes you need to read a tutorial to understand better.
+Flowing a documentation is a good way to learn, but sometimes you need to read a tutorial to understand it better.
 
 However, I learned a lot of writing this tutorial, so it is a win-win situation.
 
@@ -48,7 +48,7 @@ Maybe you need to open your project `~/myapp` in your IDE or text editor to edit
 
 Remember to change the DB_HOST variable in your .env file to the name of the service defined in the docker-compose.yml file.
 
-Could be necessary to change permissions of the `~/myapp` directory, because the container will create files in this directory, and maybe you can't edit these files.
+It can be necessary to change permissions of the `~/myapp` directory, because the container will create files in this directory, and maybe you can't edit these files.
 
 
 
